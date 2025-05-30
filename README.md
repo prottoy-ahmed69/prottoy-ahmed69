@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @prottoy-ahmed69
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 const axios = require("axios");
 
 module.exports = {
@@ -12,7 +5,7 @@ module.exports = {
         name: "nsfw",
         aliases: [],
         version: "1.4",
-        author: "TawsiN",
+        author: "Prottoy",
         countDown: 3,
         role: 0,
         longDescription: "Get a random NSFW anime waifu image.",
